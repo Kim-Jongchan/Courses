@@ -1,1 +1,1 @@
-# GW_courses
+# Courses
